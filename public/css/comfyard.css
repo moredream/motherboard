@@ -96,7 +96,7 @@ small {
   font-size: 36px;
   font-weight: normal;
   color: #666666;
-    opacity: 1;
+  opacity: 1;
 }
 
 .comf-info-text {
@@ -106,30 +106,10 @@ small {
   line-height: 1.4;
   color: #666666;
   letter-spacing: -0.5px;
-    opacity: 1;
+  opacity: 1;
 }
 
-.comf-info-text2 {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
-  font-weight: normal;
-  line-height: 1.4;
-  color: #666666;
-  letter-spacing: -0.5px;
-    opacity: 1;
-}
-
-.comf-info-text3 {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
-  font-weight: normal;
-  line-height: 1.4;
-  color: #4CAF50;
-  letter-spacing: -0.5px;
-    opacity: 1;
-}
-
-.comf-info-text4  {
+.comf-info-keyword  {
   height: 23px;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
@@ -138,6 +118,24 @@ small {
   letter-spacing: -0.5px;
     opacity: 1;
 }
+
+@media (max-width: 479px) {
+  .comf-info-title  {
+    font-size: 2.2rem;
+    line-height:2.2rem;
+  }
+  .comf-info-text {
+    font-size: 2rem;
+    line-height:2rem;
+  }
+
+  .comf-info-keyword {
+    font-size: 2.2rem;
+    line-height:2.2rem;
+  }
+}
+
+
 .comf-li {
   margin-bottom: 35px;
 }
