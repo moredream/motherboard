@@ -4,10 +4,20 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url> 
     <loc>https://comfyard.com/</loc>
+  </url>
+    <url> 
     <loc>https://comfyard.com/Find-Your-Culture-Fit/</loc> 
+  </url>
+    <url> 
     <loc>https://comfyard.com/Open-Source-Task/</loc> 
+  </url>
+    <url> 
     <loc>https://comfyard.com/Skill-Donation/</loc> 
+  </url>
+    <url> 
     <loc>https://comfyard.com/Permanent-Job/</loc> 
+  </url>
+  <url> 
     <loc>https://comfyard.com/Contract-Job/</loc> 
   </url>
 </urlset>
